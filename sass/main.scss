@@ -1,5 +1,11 @@
 @import '_vars';
 
+//import required modules
+
+@import 'modules/_header';
+@import 'modules/_footer';
+
+//import 
 .sidebar{
- background-color: $sidebar-bg;
+ background-color: $sidebar-bg-color;
 }
